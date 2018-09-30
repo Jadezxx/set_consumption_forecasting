@@ -1,0 +1,15 @@
+Power load forecasting using support vector machine and ant colony optimization
+"Neural networks for short-term load forecasting: a review and evaluation," in IEEE Transactions on Power Systems, vol. 16, no. 1, pp. 44-55, Feb 2001.
+doi: 10.1109/59.910780
+"Short-term load forecasting," in Proceedings of the IEEE, vol. 75, no. 12, pp. 1558-1573, Dec. 1987.
+doi: 10.1109/PROC.1987.13927
+ "A neural network short term load forecasting model for the Greek power system," in IEEE Transactions on Power Systems, vol. 11, no. 2, pp. 858-863, May 1996.
+doi: 10.1109/59.496166
+NEW PRINCIPLE BASED ON WAVELET TRANSFORM FOR POWER SYSTEM SHORT-TERM LOAD FORECASTING
+A hybrid dynamic and fuzzy time series model for mid-term power load forecasting
+Short-term power load forecasting using grey correlation contest modeling
+Variable Weight Combination Method for Mid-long Term Power Load Forecasting Based on Hierarchical Structure
+Optimization of support vector machine power load forecasting model based on data mining and Lyapunov exponents
+An optimized grey model for annual power load forecasting
+
+
